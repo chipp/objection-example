@@ -2,8 +2,10 @@ Example project, which describe how to use Dependency Injection library https://
 
 ## Dependency scheme
 
+```
 FirstViewController 	→ FirstViewModel 	→ ProfileFacade	→ API
 											→ LoginHelper	→ API
 
 SecondViewController 	→ SecondViewModel 	→ ProfileFacade	→ API
 											→ LoginHelper	→ API
+```
