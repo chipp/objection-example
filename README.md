@@ -1,4 +1,4 @@
-Example project, which describe how to use Dependency Injection library https://github.com/atomicobject/objection.
+Example project, which describes how to use Dependency Injection library https://github.com/atomicobject/objection.
 
 ## Dependency scheme
 
